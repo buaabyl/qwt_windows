@@ -3,6 +3,13 @@
 QWT windows build
 
 
+Windows version Qt Creator built with MSVC, like this:
+
+![Version](qt-creator-opensource-windows-4.6.2.png)
+
+So I have to install Qt-5.11.1-MSVC2015-64bit + MSVC Build Tools 2015.3...
+
+
 -----
 
 [QWT](http://qwt.sourceforge.net/)
