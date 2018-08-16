@@ -1,5 +1,12 @@
 # QWT windows build
 
+TODO: Add some demo.
+
+
+
+
+
+
 I choose Qt 5.7.0 for my daily used, but keep Qt Creator update.
 So there are a problem: the Qt library shipped with Qt Creator is newest!
 An the plugin for Qt Creator must match that Qt library.
