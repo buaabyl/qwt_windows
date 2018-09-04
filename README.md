@@ -18,7 +18,7 @@ Windows version Qt Creator built with MSVC, like this:
 
 So I have to install Qt-5.11.1-MSVC2015-64bit + MSVC Build Tools 2015.3...
 
-***The fellow brief if offical README***
+***The fellow brief is offical README***
 
 -----
 
