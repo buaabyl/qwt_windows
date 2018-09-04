@@ -1,17 +1,13 @@
 # QWT windows build
 
-TODO: Add some demo.
+I choose Qt 5.7.0 for my daily used, but keep Qt Creator update. 
 
-
-
-
-
-
-I choose Qt 5.7.0 for my daily used, but keep Qt Creator update.
 So there are a problem: the Qt library shipped with Qt Creator is newest!
+
 An the plugin for Qt Creator must match that Qt library.
 
 If you didn't need Qt Designer feature, just build libqwt.a,
+
 or you have to compile designer plugin yourself:(
 
 I just compile it, for myself.
@@ -22,6 +18,7 @@ Windows version Qt Creator built with MSVC, like this:
 
 So I have to install Qt-5.11.1-MSVC2015-64bit + MSVC Build Tools 2015.3...
 
+***The fellow brief if offical README***
 
 -----
 
