@@ -2,13 +2,13 @@
 
 I choose Qt 5.7.0 for my daily used, but keep Qt Creator update. 
 
-So there are a problem: the Qt library shipped with Qt Creator is newest!
+So there are a problem: the Qt library shipped with Qt Creator is **newest** !
 
-An the plugin for Qt Creator must match that Qt library.
+An the plugin for Qt Creator **must** match that Qt library.
 
 If you didn't need Qt Designer feature, just build libqwt.a,
 
-or you have to compile designer plugin yourself:(
+or you **have to** compile designer plugin yourself:(
 
 I just compile it, for myself.
 
