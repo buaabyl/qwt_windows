@@ -1,5 +1,8 @@
 # QWT windows build
 
+* qt-creator-4.8  `qt-5.12.1-msvc2015_amd64`
+* qt-creator-4.9  `qt-5.12.4-msvc2017_amd64`
+
 I choose Qt 5.7.0 for my daily used, but keep Qt Creator update. 
 
 So there are a problem: the Qt library shipped with Qt Creator is **newest** !
